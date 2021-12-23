@@ -1,8 +1,9 @@
-import './App.css';
+import React from "react";
+import OneToFifty from "./OneToFifty";
 
 function App() {
   return (
-    <div>one-to-fifty</div>
+    <OneToFifty></OneToFifty>
   );
 }
 
